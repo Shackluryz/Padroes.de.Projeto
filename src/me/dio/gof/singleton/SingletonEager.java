@@ -1,4 +1,4 @@
-package me.dio.gof;
+package me.dio.gof.singleton;
 
 /**
  * Singleton "apressado".
